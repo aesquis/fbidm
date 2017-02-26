@@ -7,6 +7,9 @@ This script connects to your Twitter account and get all your followers screen_n
 2.- Configure path for database and log
  
 Database pickle
+https://docs.python.org/2/library/pickle.html
+
 Log with looging
+https://docs.python.org/2/library/logging.html
 
  That's all
