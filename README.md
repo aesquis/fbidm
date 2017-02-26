@@ -6,4 +6,7 @@ This script connects to your Twitter account and get all your followers screen_n
 1.- Configure your user and app Keys and Tokens in file keys.py
 2.- Configure path for database and log
  
+Database pickle
+Log with looging
+
  That's all
